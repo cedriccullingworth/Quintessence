@@ -1,0 +1,6 @@
+C:\Temp\Quintessence\Fofx.Quintessence.RelationshipSeries\Fofx.Quintessence.RelationshipSeries\bin\Debug\Fofx.Quintessence.RelationshipSeries.pdb
+C:\Temp\Quintessence\Fofx.Quintessence.RelationshipSeries\Fofx.Quintessence.RelationshipSeries\obj\Debug\Fofx.Quintessence.RelationshipSeries.csproj.AssemblyReference.cache
+C:\Temp\Quintessence\Fofx.Quintessence.RelationshipSeries\Fofx.Quintessence.RelationshipSeries\obj\Debug\Fofx.Quintessence.RelationshipSeries.csproj.CoreCompileInputs.cache
+C:\Temp\Quintessence\Fofx.Quintessence.RelationshipSeries\Fofx.Quintessence.RelationshipSeries\obj\Debug\Fofx.Quintessence.RelationshipSeries.pdb
+C:\Temp\Quintessence\Fofx.Quintessence.RelationshipSeries\Fofx.Quintessence.RelationshipSeries\bin\Debug\Fofx.Quintessence.RelationshipSeries.dll
+C:\Temp\Quintessence\Fofx.Quintessence.RelationshipSeries\Fofx.Quintessence.RelationshipSeries\obj\Debug\Fofx.Quintessence.RelationshipSeries.dll
